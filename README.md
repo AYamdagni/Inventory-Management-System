@@ -62,6 +62,7 @@ The following tables are generated using data from the above tables -
 
 5. **Create Tableau Dashboards** : Create KPIs, metrics and visualizations to share insights and action steps for strategic decision making for the firm. 
 
+### Inference and Future Scope
 
 ### References and Acknowledgements
 
